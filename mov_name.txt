@@ -1,0 +1,5 @@
+Iron_man|1|21/5/2020|200|fiction|4.5|*
+Paper_town|2|21/5/2020|250|fantasy|4|*
+Fireflies|3|1/6/2020|300|drama|3|*
+3_Idiots|4|21/5/2020|200|comedy|5|*
+Black_widow|5|20/5/2020|200|triller|5|*
